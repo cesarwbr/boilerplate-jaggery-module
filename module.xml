@@ -1,0 +1,6 @@
+<module name="my-module" xmlns="http://wso2.org/projects/jaggery/module.xml">
+    <script>
+    	<name>my-module</name>
+    	<path>scripts/my-module.js</path>
+    </script>
+</module>
