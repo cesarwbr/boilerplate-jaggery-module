@@ -1,0 +1,8 @@
+<%
+    function getArg1(){
+    	var module = require('my-module');
+    	var myModule = new module.MyModule("Testing Jaggery module");
+    	return myModule.getArg1();
+    }
+    print(getArg1());
+%>
